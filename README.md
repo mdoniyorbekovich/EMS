@@ -42,8 +42,6 @@ A secure and role-based Employee Management System built with modern C++, OOP, p
 
 ├── users.csv              (auto-created on first run)
 
-└── screenshots/           (optional)
-
 
 ## How to Compile and Run
 
