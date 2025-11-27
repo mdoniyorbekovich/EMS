@@ -38,7 +38,7 @@ A secure and role-based Employee Management System built with modern C++, OOP, p
 
 ## How to Compile and Run
 
-### Option 1: Using CMake (Recommended)
+### Using CMake (Recommended)
 ```bash
 mkdir build && cd build
 cmake ..
