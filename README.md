@@ -25,14 +25,23 @@ A secure and role-based Employee Management System built with modern C++, OOP, p
 ## Project Structure
 
 ├── Auth.h / Auth.cpp
+
 ├── Employee.h / Employee.cpp
+
 ├── Developer.h / Developer.cpp
+
 ├── Manager.h / Manager.cpp
+
 ├── EmployeeDatabase.h / EmployeeDatabase.cpp
+
 ├── main.cpp
+
 ├── CMakeLists.txt
+
 ├── employees.csv          (auto-created on first run)
+
 ├── users.csv              (auto-created on first run)
+
 └── screenshots/           (optional)
 
 
