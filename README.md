@@ -1,5 +1,5 @@
 # Employee Management System  
-**C++ Final Project – Autumn 2025**  
+**C++ Final Project**  
 **Group Members:**  
 - Muhammadsodiq Doniyorbekov  
 - Behruz Siddiqjonov  
